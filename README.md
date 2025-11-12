@@ -11,15 +11,12 @@ El taller se llevará a cabo el viernes 10 de enero de 2025, entre las 11:00 y 1
 
 <center>
 
-| Hora          | Actividad | 
-| ------------- | --------- | 
-| 11:00 – 12:30 | Taller teórico: conceptos básicos y aplicaciones| 
-| 12:30 – 13:30 | Almuerzo |
-| 13:30 – 14:30 | Actividad 1: ANN vs. PINNs | 
-| 14:30 – 14:40 | Descanso | 
-| 14:40 – 15:20 | Actividad 2: Aplicaciones en problemas directos |
-| 15:20 – 15:50 | Actividad 3: Aplicaciones en problemas inversos |
-| 15:50 – 16:00 | Clausura |
+| Día        | Hora            | Actividad                                      |
+|-------------|-----------------|------------------------------------------------|
+| **Miércoles 12** | (12:50 – 13:35) | Taller teórico                               |
+| **Jueves 13**    | (15:55 – 16:40) | Taller práctico 1: problemas directos        |
+| **Viernes 14**   | (15:45 – 16:30) | Taller práctico 2: problemas inversos        |
+
 </center>
 
 
