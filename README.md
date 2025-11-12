@@ -1,13 +1,13 @@
 # Redes neuronales artificiales informadas por la física​ (PINNs)
 
-Este repositorio contiene material para el **taller** sobre redes neuronales informadas por la física (PINNs) de la escuela de verano del Instituto Milenio [IHEALTH](https://i-health.cl/) (ANID – Programa Iniciativa Científica Milenio – ICN2021_004).  
+Este repositorio contiene material para el **taller** sobre redes neuronales informadas por la física (PINNs) de la escuela andina de sistemas complejos
 
 ## Motivación
 
 En los últimos años, las redes neuronales profundas se han convertido en herramientas fundamentales para la modelación y el análisis de datos complejos en espacios de alta dimensionalidad. No obstante, estas técnicas suelen requerir grandes volúmenes de datos para ajustar sus numerosos parámetros, lo cual no siempre es viable en situaciones donde la disponibilidad de datos es limitada. Para abordar este desafío, se han desarrollado métodos innovadores como las Redes Neuronales Informadas por Física (PINNs), que combinan el aprendizaje profundo con información física del problema a resolver. Basadas en el teorema de aproximación universal, estas redes son capaces de aproximar funciones no lineales complejas bajo ciertas arquitecturas [(Hornik, 1991)](https://www.sciencedirect.com/science/article/pii/089360809190009T?via%3Dihub), [(Barron, 1993)](https://ieeexplore.ieee.org/document/256500), [(Villota, 2019)](https://investigacion.unirioja.es/documentos/5fbf7e47299952682503c2fa/). Adicionalmente, el uso de diferenciación automática [(Baydin *et al.*, 2018)](https://arxiv.org/abs/1502.05767) permite que las PINNs resuelvan modelos físicos complejos sin la necesidad de grandes cantidades de datos. Esta integración de información adicional facilita la optimización del modelo, permitiendo un mayor nivel de precisión y robustez en aplicaciones donde los datos disponibles son escasos [(Raissi *et al.*, 2019)](https://www.sciencedirect.com/science/article/pii/S0021999118307125), [(Karniadakis *et al.*, 2021)](https://www.nature.com/articles/s42254-021-00314-5).
 
-## Cronograma (TENTATIVO)
-El taller se llevará a cabo el viernes 10 de enero de 2025, entre las 11:00 y 16:00 hrs (CLT).
+## Cronograma
+El taller se llevará a cabo entre el 12 y el 14 de noviembre del 2025.
 
 <center>
 
@@ -31,9 +31,9 @@ Para iniciar los cuadernos en Google Colab haz clic en los siguientes enlaces pa
 
 <center>
 
-|Actividad 1 | Actividad 2 | Actividad 3 |
-|------------|-------------|-------------|
-|[![Activity 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dortiz5/ihealth-pinns-summer-school/blob/main/notebooks/activity-1.ipynb?authuser=2)|[![Activity 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dortiz5/ihealth-pinns-summer-school/blob/main/notebooks/activity-2.ipynb?authuser=2)|[![Activity 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dortiz5/ihealth-pinns-summer-school/blob/main/notebooks/activity-3.ipynb?authuser=2)
+|Taller práctico 1 | Taller práctico 2 | 
+|------------|-------------|
+|[![Activity 1](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/dortiz5/ihealth-pinns-summer-school/blob/main/notebooks/activity-1.ipynb?authuser=2](https://colab.research.google.com/github/dortiz5/PINNs-Workshop-Andean-Complex-Systems-School/blob/main/notebooks/Lect%201%20-%20PINN%20Mass%20-%20spring-%20damper.ipynb))|[![Activity 2](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/dortiz5/ihealth-pinns-summer-school/blob/main/notebooks/activity-2.ipynb?authuser=2](https://colab.research.google.com/github/dortiz5/PINNs-Workshop-Andean-Complex-Systems-School/blob/main/notebooks/Lect%204%20-%202D%20PINNS%20diffusion%20-%20inverse.ipynb))
 </center>
 
 _**Notas importantes:**_
