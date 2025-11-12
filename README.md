@@ -33,7 +33,8 @@ Para iniciar los cuadernos en Google Colab haz clic en los siguientes enlaces pa
 
 |Taller práctico 1 | Taller práctico 2 | 
 |------------|-------------|
-|[![Activity 1](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/dortiz5/ihealth-pinns-summer-school/blob/main/notebooks/activity-1.ipynb?authuser=2](https://colab.research.google.com/github/dortiz5/PINNs-Workshop-Andean-Complex-Systems-School/blob/main/notebooks/Lect%201%20-%20PINN%20Mass%20-%20spring-%20damper.ipynb))|[![Activity 2](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/dortiz5/ihealth-pinns-summer-school/blob/main/notebooks/activity-2.ipynb?authuser=2](https://colab.research.google.com/github/dortiz5/PINNs-Workshop-Andean-Complex-Systems-School/blob/main/notebooks/Lect%204%20-%202D%20PINNS%20diffusion%20-%20inverse.ipynb))
+|[![Activity 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dortiz5/PINNs-Workshop-Andean-Complex-Systems-School/blob/main/notebooks/Lect%201%20-%20PINN%20Mass%20-%20spring-%20damper.ipynb)
+|[![Activity 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dortiz5/PINNs-Workshop-Andean-Complex-Systems-School/blob/main/notebooks/Lect%204%20-%202D%20PINNS%20diffusion%20-%20inverse.ipynb)
 </center>
 
 _**Notas importantes:**_
